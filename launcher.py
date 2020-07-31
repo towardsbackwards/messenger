@@ -2,6 +2,7 @@ import subprocess
 
 from common.variables import CLIENTS_COUNT_DEF
 
+
 process = []
 
 while True:

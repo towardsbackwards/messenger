@@ -14,6 +14,8 @@ ENCODING = 'utf-8'
 LOGGING_LEVEL = logging.DEBUG
 # Количество запускаемых клиентов по умолчанию
 CLIENTS_COUNT_DEF = 2
+# База данных для хранения данных сервера:
+SERVER_DATABASE = 'sqlite:///server_base.db3'
 
 # Прококол JIM основные ключи:
 ACTION = 'action'
